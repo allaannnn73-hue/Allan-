@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Studio App</string>
+    <string name="welcome_title">Bienvenue</string>
+    <string name="welcome_message">Application Studio avec IA Locale</string>
+</resources>
